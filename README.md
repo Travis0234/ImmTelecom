@@ -18,7 +18,7 @@
 ### 📖 品牌介绍
 * **官方名称：** ImmTelecom
 * **官网：** [ImmTelecom - Register](https://immtele.com/aff.php?aff=2221)
-* **我的邀请码：** [https://immtele.com/aff.php?aff=2221](https://immtele.com/aff.php?aff=2221)
+* **我的邀请码：** [https://dub.sh/MtfccgM](https://dub.sh/MtfccgM)
 * **行业地位：** **Nexitally 奶昔的分站之一**，同款 **IEPL/IPLC 专线**架构。**境内 BGP 入口 + 多省原生入口**，**Anycast** 任拨技术，无视高峰波动，**稳定性更佳**，特殊时期也稳。
 * **博客评测：** [【一线】ImmTelecom 专线机场](https://travisblog.qzz.io/article/immtelecom-review)
 
